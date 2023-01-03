@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center">Hi 👋, my name is  <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Paul</a></h1>
 <h3 align="center">A passionated fullstack developer from germany</h3><br><br>  
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 
-- 🌱 I’m currently learning Javascript && React 
-- 🌱 I’m currently Working on <a href="https://www.giftit.one/" target="blank">Giftit</a>
+- 🌱 I’m currently learning Javascript && React <br>
+- 🌱 Last project was <a href="https://www.giftit.one/" target="blank">Giftit.com</a>
+- 🌱 I’m currently Working on a training page <a href="https://www.giftit.one/" target="blank">"AI and Friends"<img src="https://cdn-icons-png.flaticon.com/512/541/541509.png" style="width: 15px"></a>
 - 💬 Ask me about literally anything
 - 📫 How to reach me **paul.sess@proton.me**
 <br>
