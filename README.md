@@ -34,7 +34,7 @@ Paul</a></h1>
 <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/paul-sess">
 	<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 	 
-<a style="margin-left: 10px;" target="_blank" href="[https://github.com/PaulSess](https://github.com/PaulSess)">
+<a style="margin-left: 10px;" target="_blank" href="https://github.com/PaulSess">
 	<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	 
 <a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/19082938/paul">
