@@ -23,7 +23,7 @@ Paul</a></h1>
 	</p>
 
 <br><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsess&show_icons=true&locale=en&layout=compact" alt="paulsess" /></p>
+<p style="margin-left: 300px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsess&show_icons=true&locale=en&layout=compact" alt="paulsess" /></p>
 
 <br><br>
 
