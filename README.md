@@ -7,7 +7,7 @@ Paul</a></h1>
 
 - 🌱 I’m currently learning Javascript && React <br>
 - 🌱 Last project was <a href="https://www.giftit.one/" target="blank">Giftit.com</a>
-- 🌱 I’m currently Working on a training page <a href="https://www.giftit.one/" target="blank">"AI and Friends"<img src="https://cdn-icons-png.flaticon.com/512/541/541509.png" style="width: 15px"></a>
+- 🌱 I’m currently Working on a training page <a href="#" target="blank">"AI and Friends"<img src="https://cdn-icons-png.flaticon.com/512/541/541509.png" style="width: 15px"></a>
 - 💬 Ask me about literally anything
 - 📫 How to reach me **paul.sess@proton.me**
 <br>
