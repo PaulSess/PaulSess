@@ -21,9 +21,11 @@ Paul</a></h1>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 	</p><br>
-	
-<a href="https://paulsess.github.io/profile/" target="_blank" ><h4 style="width:fit-content; margin:auto;">Feel free to have a cheeky view in my portfolio</h4></a>
 
+<div style="width: 100%;">
+	<a style="width:fit-content; margin:auto;" href="https://paulsess.github.io/profile/" target="_blank" ><h4>Feel free to have a cheeky view in my portfolio</h4></a>
+</div>
+	
 <br><br>
 <p style="margin-left: 300px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsess&show_icons=true&locale=en&layout=compact" alt="paulsess" /></p>
 
