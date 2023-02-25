@@ -23,7 +23,8 @@ Paul</a></h1>
 	</p><br>
 
 <div style="width: 100%;">
-	<a style="width:fit-content; margin:auto;" href="https://paulsess.github.io/profile/" target="_blank"><img width="50px" src="https://www.svgrepo.com/show/339723/app-developer.svg" style="fill:white;"><br>Feel free to have a cheeky view in my portfolio</a>
+	<a style="width:fit-content; margin:auto; color:white;" href="https://paulsess.github.io/profile/" target="_blank"><img width="50px" src="https://www.svgrepo.com/show/339723/app-developer.svg" style="color:white;">
+		<br>Feel free to have a cheeky view in my portfolio</a>
 </div>
 	
 <br><br>
